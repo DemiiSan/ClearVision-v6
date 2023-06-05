@@ -86,7 +86,7 @@
   --user-popout-size: cover; /* user popout background size [default: var(--background-size)] */
   --user-popout-repeat: no-repeat; /* user popout background repeat [default: var(--background-repeat)] */
   --user-popout-attachment: fixed; /* user popout background attachment [default: var(--background-attachment)] */
-  --user-popout-brightness: 100%; /* user popout background brightness (< 100% for darken, > 100% for lighten) [default: var(--background-brightness)] */
+  --user-popout-brightness: 99%; /* user popout background brightness (< 100% for darken, > 100% for lighten) [default: var(--background-brightness)] */
   --user-popout-contrast: 112%; /* user popout background contrast [default: var(--background-contrast)] */
   --user-popout-saturation: 110%; /* user popout background saturation [default: var(--background-saturation)] */
   --user-popout-invert: 0%; /* user popout background invert (0 - 100%) [default: var(--background-invert)] */
